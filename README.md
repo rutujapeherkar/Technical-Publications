@@ -57,8 +57,19 @@ purposes only**.
 
 ---
 
-## 👤 Contributor
-**Rutuja Bhaginath Peherkar**
+## 👤 Magazine Contributor
+1. Rutuja Peherkar
+2. Yash Bhavsar
+3. Shubham Deshmukh
+4. Vishal Rathod
+5. Suraj Wakhure
+
+## 👤 Newsletter Contributor
+1. Rutuja Peherkar
+2. Anushka Udawant
+3. Arjun Somwanshi
+4. Malik Syed
+   
 
 ---
 
